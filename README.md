@@ -12,5 +12,5 @@ Sistem ini dirancang untuk mengelola distribusi barang di Warung Berkah, mencata
 
 ## Struktur File
 - README.md
-- ERD_TokoBUdi.drawio
+- ERD_TokoBudi.drawio
 - DB_TokoBudi.sql
